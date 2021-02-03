@@ -548,9 +548,9 @@ p {
     display: none;
   }
   .blog-previews {
-    padding: 0;
+    padding: 1em;
   }
-  
+
   /* GALLERY STYLES */
   .gallery {
     flex-direction: column;
